@@ -5,7 +5,7 @@
 HTML / CSS / JavaScript を 1 ファイルにまとめているので、GitHub Pages でそのまま公開できます。
 
 ## デモ
-GitHub Pages で公開したURLをここに記載します。
+https://qianyu-08.github.io
 
 ## 機能
 
