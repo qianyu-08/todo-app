@@ -5,7 +5,7 @@
 HTML / CSS / JavaScript を 1 ファイルにまとめているので、GitHub Pages でそのまま公開できます。
 
 ## デモ
-https://qianyu-08.github.io
+https://qianyu-08.github.io/todo-app
 
 ## 機能
 
